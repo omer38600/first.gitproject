@@ -2,3 +2,5 @@ hello git.
 multiple line
 
 make some chenge in the same file.
+
+new changes
